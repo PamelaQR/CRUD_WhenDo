@@ -1,0 +1,36 @@
+factoryDevices/IDevice.java
+ factoryDevices.IDevice
+basicTest/BasicJunit.java
+ basicTest.BasicJunit
+factoryDevices/FactoryDevices.java
+ factoryDevices.FactoryDevices
+ factoryDevices.FactoryDevices$1
+ factoryDevices.FactoryDevices$DeviceType
+factoryDevices/WindowsPhone.java
+ factoryDevices.WindowsPhone
+factoryDevices/IOS.java
+ factoryDevices.IOS
+basicTest/BasicAppium.java
+ basicTest.BasicAppium
+factoryDevices/Android.java
+ factoryDevices.Android
+session/Session.java
+ session.Session
+controlAppium/TextBox.java
+ controlAppium.TextBox
+activities/whenDo/MainScreen.java
+ activities.whenDo.MainScreen
+activities/whenDo/CreateTaskScreen.java
+ activities.whenDo.CreateTaskScreen
+controlAppium/Control.java
+ controlAppium.Control
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+activities/whenDo/UpdateTaskScreen.java
+ activities.whenDo.UpdateTaskScreen
+activities/whenDo/RemoveTaskScreen.java
+ activities.whenDo.RemoveTaskScreen
+cleanTest/WhenDoTest.java
+ cleanTest.WhenDoTest

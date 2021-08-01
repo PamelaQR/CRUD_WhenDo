@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.WhenDoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-01T03:13:07" hostname="DESKTOP-PN1BFK5" time="22.838">
+  <properties/>
+  <testcase name="cancelRemoveTask()" classname="cleanTest.WhenDoTest" time="22.838"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jul. 31, 2021 11:13:20 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
